@@ -1,0 +1,5 @@
+If applicant has high income OR good credit
+	Eligible for loan
+
+If applicant has good credit AND doesn't have a criminal record
+    print("Eligible for loan")

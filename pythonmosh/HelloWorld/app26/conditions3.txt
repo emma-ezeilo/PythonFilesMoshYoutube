@@ -1,0 +1,2 @@
+If applicant has high income OR good credit
+	Eligible for loan
